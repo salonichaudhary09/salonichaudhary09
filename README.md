@@ -68,14 +68,6 @@ https://github.com/salonichaudhary09/java-dpi-engine
 
 ---
 
-### 🗓️ Smart Study Planner
-A responsive and user-friendly web application designed to help students efficiently manage their study schedules, track tasks, and improve productivity. The application allows users to create personalized study plans, organize subjects and deadlines, and monitor daily progress through an intuitive interface.
-
-🔗 Repository:
-https://github.com/salonichaudhary09/smart-study-planner.git
-
----
-
 
 ### 🌐 Personal Portfolio
 Responsive developer portfolio showcasing projects, skills, and achievements.
